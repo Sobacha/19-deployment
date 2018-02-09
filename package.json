@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "This is an assignment for cf-401",
   "main": "index.js",
+  "engines": {"node": "9.4.0"},
   "scripts": {
     "start": "node index.js",
     "start:watch": "nodemon index.js",
